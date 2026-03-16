@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sergei Kortscheff
-- 👀 I’m interested in networking, hardware, IaaS, virtualization and everything infrastrcture. 
-- 🌱 I’m currently learning Python, my very first steps.
-- 💞️ I’m looking to collaborate on everything I can make myself useful.
-- 📫 How to reach me, here as @skortscheff
-
-
+👋 Hi, I'm Sergei Kortscheff
+👀 I'm a network engineer building ISP-grade infrastructure — BGP, OSPF, and routing policy across Cisco, MikroTik, and Palo Alto. If it has a routing table, I probably have opinions about it.
+🔧 My stack spans Proxmox, Docker, IaC, and cybersecurity — homelab included, always running something new.
+🌱 Currently learning Python and taking my first steps into automation and scripting.
+💞️ Open to collaborating on anything infrastructure — networking, virtualization, IaC, or anything I can make myself useful on.
+📫 Reach me here as @skortscheff
