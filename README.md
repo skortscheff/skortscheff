@@ -1,11 +1,15 @@
-👋 Hi, I'm Sergei Kortscheff
+👋 Hi, I'm Sergei Kortscheff — network engineer and cybersecurity solutions architect based in Central America.
 
-👀 I'm a network engineer building ISP-grade infrastructure — BGP, OSPF, and routing policy across Cisco, MikroTik, and Palo Alto. If it has a routing table, I probably have opinions about it.
+👀 I build ISP-grade infrastructure: BGP, OSPF, and routing policy across Cisco, MikroTik, and Palo Alto. If it has a routing table, I have opinions about it.
 
-🔧 My stack spans Proxmox, Docker, IaC, and cybersecurity — homelab included, always running something new.
+🏗️ Current obsession: designing a full-stack ISP network from scratch — edge routers, BGP peering, core switching, and a homelab that never stops running something new.
 
-🌱 Currently learning Python and taking my first steps into automation and scripting.
+🔧 My stack: Proxmox · Docker · Palo Alto Strata, Cortex & Prisma · Docker · CyberArk · IaC · Python
 
-💞️ Open to collaborating on anything infrastructure — networking, virtualization, IaC, or anything I can make myself useful on.
+💼 Day job: solutions leadership and architecture at a cybersecurity MSSP — I translate complex security deployments into proposals that actually ship.
 
-📫 Reach me here as @skortscheff
+🌱 Growing into automation and scripting — because clicking things manually doesn't scale.
+
+💞️ Open to collaborating on networking, virtualization, IaC, or anything infrastructure I can make myself useful on.
+
+📫 @skortscheff
